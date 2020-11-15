@@ -67,3 +67,4 @@ with open("model-bw.json", "w") as json_file:
     json_file.write(model_json)
 classifier.save_weights('model-bw.h5')
 
+
