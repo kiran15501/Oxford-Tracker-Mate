@@ -150,3 +150,4 @@ def predict_redirect():
     cap.release()
     cv2.destroyAllWindows()
     return numer_num
+
