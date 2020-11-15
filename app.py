@@ -157,7 +157,6 @@ def destroy(name=None):
     user=0
     return render_template('index.html',name=name)
 
-
 # def log(id, source, destination, starttime, endtime):
 #     file = open("templates/log.json","a+")
 #     logs = {}
