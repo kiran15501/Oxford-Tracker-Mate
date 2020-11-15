@@ -41,3 +41,4 @@ def speech_pred():
         except:
             # print('Sorry could not recognize your voice')
             return num
+        
